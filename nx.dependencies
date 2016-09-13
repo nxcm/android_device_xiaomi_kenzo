@@ -1,0 +1,20 @@
+[
+ {
+    "remote":      "github",
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":   "cm-13.0"
+ },
+ {
+    "remote":      "github",
+    "repository": "CyanogenMod/android_kernel_xiaomi_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "revision":   "cm-13.0"
+ },
+ {
+    "remote":      "github",
+    "repository": "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "revision":   "cm-13.0"
+ }
+]
